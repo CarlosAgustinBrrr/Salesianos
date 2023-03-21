@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author CarlosPC
- *
- */
-module GitProyecto {
-}
